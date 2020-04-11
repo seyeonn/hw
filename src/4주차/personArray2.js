@@ -16,4 +16,3 @@ for(let i=0; i<10; i++) {
     persons2[i] = Object.assign({},persons1[i]);  
 }
 console.log(persons2);
-
